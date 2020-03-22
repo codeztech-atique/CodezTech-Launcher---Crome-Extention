@@ -3,9 +3,16 @@
   "name": "CodezTech Launcher",
   "description": "Easily Access CodezTech Content",
   "version": "1.0.0",
-  "icons": { "128": "icons.png" },
+  "icons": {
+    "16": "images/icons16.png",
+    "24": "images/icons24.png",
+    "32": "images/icons32.png",
+    "48": "images/icons48.png",
+    "96": "images/icons96.png",
+    "128": "images/icons128.png"
+  },
   "browser_action": {
-    "default_icon": "icons.png",
+    "default_icon": "images/icons96.png",
     "default_popup": "index.html"
   },
   "permissions": ["activeTab"]
