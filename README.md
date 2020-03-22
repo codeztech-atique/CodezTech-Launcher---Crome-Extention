@@ -12,7 +12,7 @@ This README would normally document whatever steps are necessary to get your app
 
 * Download this extention. Its a simple html, js and css file.
 * In order to see the file you can directly click on index.html
-* In order to load it as extention visit crome browser, go to settings, click on the extention tab left hand side below -> 
+* In order to load it as extention visit crome browser, go to settings, click on the extention tab left hand side below 
 * Click on developer mode -> Load the folder. Then refresh the extention.
 
 ### Contribution guidelines ###
